@@ -1,2 +1,2 @@
-# TASR2
-Transposable elements annotation reconciliation tool for large genomes
+# TRANSPOSE
+Transposable elements annotation for large genomes

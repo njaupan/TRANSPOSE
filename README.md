@@ -1,7 +1,10 @@
 # TRANSPOSE
 Transposable elements annotation for large genomes
 
-perl '/media/panpan/P2/TEanno_sensi/Moaine.Tutoriel/TRANSPOSE/transpose.v1.0.pl' -h
+
+```
+
+perl transpose.v1.0.pl -h
 
 
 TE_grab
@@ -24,3 +27,13 @@ usage: perl transpose.v1.0.pl  -genome genome.fasta -TEprot name of TE protein f
 
 
 WARNING : reference genome, TEprot fasta are required. Please type : 'perl transpose.v1.0.pl -h' for help 
+
+
+
+```
+
+# Contact
+
+Copyright © 2020 Panpan Zhang (njaupanpan@gmail.com)
+
+Any question, concern, or bug report about the program should be posted as an Issue on GitHub. Before posting, please check previous issues (both Open and Closed) to see if your issue has been addressed already. Also, please follow these good GitHub practices.

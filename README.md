@@ -34,6 +34,6 @@ WARNING : reference genome, TEprot fasta are required. Please type : 'perl trans
 
 # Contact
 
-Copyright © 2020 Panpan Zhang (njaupanpan@gmail.com)
+Copyright © 2021 Panpan Zhang (njaupanpan@gmail.com)
 
 Any question, concern, or bug report about the program should be posted as an Issue on GitHub. Before posting, please check previous issues (both Open and Closed) to see if your issue has been addressed already. Also, please follow these good GitHub practices.
